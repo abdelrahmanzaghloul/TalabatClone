@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-TalabatClone-EB9BF2B3-C402-410F-87D0-33A800A5F7AA")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("TalabatClone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
