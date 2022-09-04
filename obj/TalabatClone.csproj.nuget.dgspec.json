@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KTT\\source\\repos\\TalabatClone\\TalabatClone.csproj": {}
+    "D:\\GitHub Repos\\TalabatClone\\TalabatClone.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KTT\\source\\repos\\TalabatClone\\TalabatClone.csproj": {
+    "D:\\GitHub Repos\\TalabatClone\\TalabatClone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KTT\\source\\repos\\TalabatClone\\TalabatClone.csproj",
+        "projectUniqueName": "D:\\GitHub Repos\\TalabatClone\\TalabatClone.csproj",
         "projectName": "TalabatClone",
-        "projectPath": "C:\\Users\\KTT\\source\\repos\\TalabatClone\\TalabatClone.csproj",
-        "packagesPath": "C:\\Users\\KTT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KTT\\source\\repos\\TalabatClone\\obj\\",
+        "projectPath": "D:\\GitHub Repos\\TalabatClone\\TalabatClone.csproj",
+        "packagesPath": "C:\\Users\\A_Z\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub Repos\\TalabatClone\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\KTT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\A_Z\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
