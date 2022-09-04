@@ -68,6 +68,8 @@ ipch/
 *.opensdf
 *.sdf
 *.cachefile
+*.cache
+*.editorconfig
 
 # Visual Studio profiler
 *.psess
